@@ -272,3 +272,11 @@ li.filter:hover{
     color: #ef7f4d;
     transition: all 0.3s ; 
 }
+
+
+
+
+img.img-fluid {
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
